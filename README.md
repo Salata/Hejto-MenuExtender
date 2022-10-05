@@ -1,7 +1,8 @@
 # Hejto-MenuExtender
 Skrypt user.js usprawniający korzystanie z portalu hejto peel
-<img src="https://raw.githubusercontent.com/Salata/hejto-menuExtender/master/docs/pic1.png" alt="promo" style="max-width: 100%;">
-
+<p>
+  <img src="https://raw.githubusercontent.com/Salata/hejto-menuExtender/master/docs/pic1.png" alt="promo" style="max-width: 100%;">
+</p>
 Instalacja
 
 1. Wymaga uprzedniego zainstalowania dodatku do przeglądarku, Tampermonkey.
